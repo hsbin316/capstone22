@@ -3,17 +3,19 @@
 졸업작품 소개 사이트 : URL (팀장이 만든 GitHub 페이지)   
 포트폴리오 소개 사이트 : URL (개인이 만든 GitHub 페이지) [ 안만들어도 상관없음 ]    
 
-[ 졸업 작품 소개 ]   
+## [ 졸업 작품 소개 ]   
 작품명   
 개발환경   
 작품 소개   
 작품의 특징   
 
-[ 개발 일지 ]   
+## [ 개발 일지 ]   
 최소한 일주일에 한번   
 개인 수행평가   
 
-(08월31일)   
-1주차 수업진행 내용   
-공유리스트에 자신의 github repo주소 , 역활 등 올리기 및 조편성   
-README.md 작성시 Markdown을 활용하여 작성   
+## (08월31일)   
+> 1주차 수업진행 내용   
+
+- [공유리스트](https://)에 자신의 github repo주소 , 역활 등 올리기 및 조편성 
+- 졸업 작품에 관한 생각 설문조사 [실시](https://docs.google.com/forms/d/e/1FAIpQLSfGDeNXpHiORS5-yfNuk5ZC9uGqSlD8vCRrlB9KgsstDqCtag/viewform)  
+- README.md 작성시 Markdown을 활용하여 작성   
