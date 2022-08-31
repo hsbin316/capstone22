@@ -15,4 +15,4 @@
 - [공유리스트](https://bit.ly/3AupOKk)에 자신의 github repo주소 , 역활 등 올리기 및 조편성 
 - 졸업 작품에 관한 생각 설문조사 [실시](https://docs.google.com/forms/d/e/1FAIpQLSfGDeNXpHiORS5-yfNuk5ZC9uGqSlD8vCRrlB9KgsstDqCtag/viewform)  
 - README.md 작성시 [Markdown](https://gist.github.com/ihoneymon/652be052a0727ad59601) 을 활용하여 작성
-- README.md 작성 요령 및 commit 방법 설명
+- README.md 작성 요령 및 commit 방법 [설명](https://sudo-minz.tistory.com/10)
