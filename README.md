@@ -18,9 +18,9 @@
 - 팀 역활 분담 ( 공통적으로 사용될 기술 구현 : 'components/common' 폴더란에 들어갈 것)
 - 내 담당 
     - footer : 대림대학교 홈페이지 footer를 참고하여 만들 것  
-    - base button : 'width : 285px / height : 101px' 로 만들 것  
+    - base button : 'width : 285px / height : 101px' 로 만들 것  <br>
     <img src="./image/base-button.png">
-    - left/right button : 각각 'width: 30px / height : 45px' 로 만들 것   
+    - left/right button : 각각 'width: 30px / height : 45px' 로 만들 것 <br>  
     <img src="./image/left_right-button.png">
 
 ### (09월07일)
