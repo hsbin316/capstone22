@@ -22,7 +22,7 @@
     <img src="./image/base-button.PNG"> <br>
     - left/right button : 각각 'width: 30px / height : 45px' 로 만들 것 <br>
     <img src="./image/left_right-button.PNG"> <br>
-    - darkmode button: 'width: 30px / height: 30px' 로 만들 것 <br>
+    - darkmode button: 'width: 50px / height: 48px' 로 만들 것 <br>
 - 이번주 목표
     - 내가 담당하는 부분( footer, button, darkmode )을 디자인 부터 기능 까지 모두 구현할 것
         - 팀 노션사이트의 규칙 및 참고사이트를 이용하여 만들것
