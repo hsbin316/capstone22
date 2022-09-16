@@ -17,10 +17,10 @@
     <img src="./image/logo.png">
 - 각 팀원별 역활 분담 ( 팀 github의 'components/common' 폴더란에 들어갈 기능을 구현하는것)
 - 내 담당 
-    - footer : 대림대학교 홈페이지 footer를 참고하여 만들 것  <br>
+    - footer : 대림대학교 홈페이지 footer를 참고하여 만들 것 <br>
     - base button : 'width : 285px / height : 101px' 로 만들 것  <br>
     <img src="./image/base-button.PNG"> <br>
-    - left/right button : 각각 'width: 30px / height : 45px' 로 만들 것 <br>
+    - left/right arrow button : 각각 'width: 30px / height : 45px' 로 만들 것 <br>
     <img src="./image/left_right-button.PNG"> <br>
     - darkmode button: 'width: 50px / height: 48px' 로 만들 것 <br>
 - 이번주 목표
