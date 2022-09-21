@@ -9,6 +9,27 @@
  - 개발환경 : 리엑트, HTML5, CSS, 테스트코드, eslint, prettier, Git, tailwind [ 추후 변경될 수 있음 ]
  - 작품 소개 : 현재 기상 상태를 사용자에게 전달해 주고 날씨가 좋은 지역의 관광장소와 명소를 사용자에게 추천해주는 사이트이다.
  - 작품의 특징 : 오픈웨더 api와 관광지 api를 사용하여 기상 정보를 가져온다.
+ 
+ ### (09월21일)
+ >4주차 수업진행 내용 정리
+ - 지난번 담당 했던 기능 완성
+    - Footer(완성) <br>
+    img
+    위 이미지 같이 구현 ( 디자인은 추후 변경될 수 있음 )
+    - darkmode(완성) <br>
+    img
+    위 이미지들과 같은 기능과 디자인으로 구현 ( 디자인은 추후 변경될 수 있음 )
+        - 기능에 대한 설명
+    - base button, arrow button은 아직 미완성
+ - [tailwind css](https://tailwindcss.com/)의 사용법 숙지
+ - 내 담당
+    - openweathermap api : 아래의 디자인과 같이 만들 것 <br>
+    img
+    - darkmode button ,footer : 지난주의 완성한 부분의 수정 및 보완작업
+ - 이번주 목표
+    - 지난번에 완성하지 못한 기능(button)을 구현
+    - [openweathermap](https://openweathermap.org/api)의 api를 구현할 것
+        - 팀 노션사이트의 규칙 및 참고사이트를 이용하여 만들것
 
 ### (09월14일)
 >3주차 수업진행 내용 정리
