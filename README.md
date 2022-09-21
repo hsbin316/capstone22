@@ -10,21 +10,21 @@
  - 작품 소개 : 현재 기상 상태를 사용자에게 전달해 주고 날씨가 좋은 지역의 관광장소와 명소를 사용자에게 추천해주는 사이트이다.
  - 작품의 특징 : 오픈웨더 api와 관광지 api를 사용하여 기상 정보를 가져온다.
  
+ ## [ 개발 일지 ] ( 최소한 일주일에 한번 , 개인 수행평가 )
  ### (09월21일)
  >4주차 수업진행 내용 정리
  - 지난번 담당 했던 기능 완성
-    - Footer(완성) <br>
-    <img src="./image/footer-design.PNG">
-    위 이미지 같이 디자인 구현 ( 디자인은 추후 변경될 수 있음 ) <br>
-    - darkmode(완성) <br>
-    <img src="./image/darkmode.PNG"> <br>
-    위 이미지 같은 기능과 스위치로 구현 ( 디자인은 추후 변경될 수 있음 )
+    - Footer(완성)
+    <img src="./image/footer-design.PNG"> <br>위 이미지 같이 디자인 구현 ( 디자인은 추후 변경될 수 있음 )   
+    - DarkMode(완성) <br>
+    <img src="./image/darkmode.PNG"> <br> 위 이미지 같은 기능과 스위치로 구현 ( 디자인은 추후 변경될 수 있음 ) 
         - darkmode button을 누르면 위의 이미지와 같이 css가 변경됨
-    - base button, arrow button(미완성)
+        
+    - Base Button, Arrow Button(미완성)
  - [tailwind css](https://tailwindcss.com/)의 사용법 숙지
  - 이번주 내 담당
     - openweathermap api : api구현 후 아래의 디자인과 같이 만들 것 <br>
-    <img src="./image/openweathermap-api.PNG">
+    <img src="./image/openweathermap-api.PNG"> <br>
     - darkmode button ,footer : 지난주의 완성한 부분의 수정 및 보완작업
     - base button, left/right arrow button : 지난주의 작성한 대로 만들 것 <br>
  - 이번주 목표
@@ -58,8 +58,6 @@
 - 팀원 역활 분담 및 팀 규칙 정하기
     - 나의 경우 작품제작, 참여인원 체크, 자료 취합, 타입키퍼, 노션관리의 역활을 수행할 것
 
-
-## [ 개발 일지 ] ( 최소한 일주일에 한번 , 개인 수행평가 )
 ### (08월31일)   
 > 1주차 수업진행 내용 정리
 - [공유리스트](https://bit.ly/3AupOKk)에 자신의 github repo주소 , 역활 등 올리기 및 조편성 
