@@ -14,18 +14,19 @@
  >4주차 수업진행 내용 정리
  - 지난번 담당 했던 기능 완성
     - Footer(완성) <br>
-    img
-    위 이미지 같이 구현 ( 디자인은 추후 변경될 수 있음 )
+    <img src="./image/footer-design.PNG">
+    위 이미지 같이 디자인 구현 ( 디자인은 추후 변경될 수 있음 )
     - darkmode(완성) <br>
-    img
+    img <br>
     위 이미지들과 같은 기능과 디자인으로 구현 ( 디자인은 추후 변경될 수 있음 )
-        - 기능에 대한 설명
-    - base button, arrow button은 아직 미완성
+        - darkmode button을 누르면 위의 이미지와 같이 css가 변경됨
+    - base button, arrow button(미완성)
  - [tailwind css](https://tailwindcss.com/)의 사용법 숙지
- - 내 담당
-    - openweathermap api : 아래의 디자인과 같이 만들 것 <br>
-    img
+ - 이번주 내 담당
+    - openweathermap api : api구현 후 아래의 디자인과 같이 만들 것 <br>
+    <img src="./image/openweathermap-api.PNG">
     - darkmode button ,footer : 지난주의 완성한 부분의 수정 및 보완작업
+    - base button, left/right arrow button : 지난주의 작성한 대로 만들 것 <br>
  - 이번주 목표
     - 지난번에 완성하지 못한 기능(button)을 구현
     - [openweathermap](https://openweathermap.org/api)의 api를 구현할 것
