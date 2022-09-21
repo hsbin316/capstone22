@@ -15,10 +15,10 @@
  - 지난번 담당 했던 기능 완성
     - Footer(완성) <br>
     <img src="./image/footer-design.PNG">
-    위 이미지 같이 디자인 구현 ( 디자인은 추후 변경될 수 있음 )
+    위 이미지 같이 디자인 구현 ( 디자인은 추후 변경될 수 있음 ) <br>
     - darkmode(완성) <br>
-    img <br>
-    위 이미지들과 같은 기능과 디자인으로 구현 ( 디자인은 추후 변경될 수 있음 )
+    <img src="./image/darkmode.PNG"> <br>
+    위 이미지 같은 기능과 스위치로 구현 ( 디자인은 추후 변경될 수 있음 )
         - darkmode button을 누르면 위의 이미지와 같이 css가 변경됨
     - base button, arrow button(미완성)
  - [tailwind css](https://tailwindcss.com/)의 사용법 숙지
@@ -31,6 +31,7 @@
     - 지난번에 완성하지 못한 기능(button)을 구현
     - [openweathermap](https://openweathermap.org/api)의 api를 구현할 것
         - 팀 노션사이트의 규칙 및 참고사이트를 이용하여 만들것
+        - 팀 피그마사이트를 참고하여 디자인 할 것
 
 ### (09월14일)
 >3주차 수업진행 내용 정리
