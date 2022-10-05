@@ -11,6 +11,31 @@
  - 작품의 특징 : 오픈웨더 api와 관광지 api를 사용하여 기상 정보를 가져온다.
  
  ## [ 개발 일지 ] ( 최소한 일주일에 한번 , 개인 수행평가 )
+ ## (10월05일)
+ > 6주차 수업진행 내용 정리
+ - openweathermap api를 이용하여 값 호출
+    - 온도, 아이콘, 지역이름 등을 호출하였음
+    - 이미지
+ - 피그마 사이트에 올린 디자인 편집
+    - 다크모드를 활성화 했을 때 나올 페이지를 아래의 이미지와 같이 제작
+    - <img src="./image/darkmode-ver.PNG" />
+    - 사이트 홈페이지 로고를 올바르게 수정
+        - 기존
+        - <img src="./image/logo-before.PNG" />
+        - 적용후
+        - <img src="./image/logo-after.PNG" />
+ - 다음주 까지 해야할 것
+    - 이번주 일요일(10월09일)까지 졸업작품 ppt완성
+        - 포스터에 들어갈 내용 지난주에 작성한 내용과 동일
+    - openweathermap api에서 불러온 값을 이용하여 아래와 같이 만들기
+        - <img src="./image/openweathermap-api.PNG" />
+    - openweathermap 의 'weather maps' api를 호출할 것
+    - 피그마 사이트에 올린 모든 디자인 편집
+        - 모든 페이지에 다크모드를 적용했을때의 디자인을 만들 것
+        - header,footer,body의 다크모드 색상은 '1F2937'으로 설정하였음
+        - header,footer,body의 구별은 stroke를 이용하여 구분 stroke의 색상은 '374151'으로 설정
+
+
  ### (09월28일)
  >5주차 수업진행 내용 정리
  - 지난번 담당 했던 기능 github에 올리기
