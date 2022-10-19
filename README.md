@@ -14,14 +14,14 @@
  ## (10월12일)
 > 7주차 수업진행 내용 정리
  - openweathermap api를 이용하여 값 호출 작업 1차 완료
-    - <img src="./image/weather-card.PNG" />
+    - <img src="./image/weather-card.png" />
     - 앞으로 전국의 날씨 데이터(17지역)를 호출한 후 종합하여 맑은날씨의 데이터를 가진 지역의 데이터를 하나 랜덤으로 선택하여 화면에 뿌려주는 작업을 할 것
     - 영어로 나오는 지역 이름 및 날씨상태를 한글로 호출할 수 있도록 수정할 것
  - openweathermap api를 Github에 올리면서 발생한 오류를 수정할 것
     - 오류코드 : 'error: process completed with exit code 1.'
  - 저번주에 만든 ppt자료를 다시한번 확인하여 잘못된 부분이 있으면 수정할 것
  - openweathermap api중 지도 api를 호출하여 아래이미지 처럼 화면에 출력할 것
-    - ex) <img src="./image/weathermap-ex.PNG" />
+    - ex) <img src="./image/weathermap-ex.png" />
 - 지난주에 만든 openweather api 호출 값에 darkmode를 적용할 것
     - weather icon의 경우 api호출하는 과정에서 강제로 다크모드로 호출되는 경우가 있기에 이를 수정할 것
     - card의 color색상은 '1F2937으로 border색상은 none으로 처리
