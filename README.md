@@ -30,14 +30,14 @@
  ## (10월19일)
  - 8주차 수업진행 내용 정리 (중간고사)
     - openweathermap api를 이용하여 전국 17곳의 데이터 값을 가져오는 작업 완료
-        - axios multiple requests기능을 사용하려 하였으나 두개 이상의 데이터를 호출하는 방식을 하기에는 기술 부족으로 하지 못함
+        - axios multiple requests기능을 사용하려 하였으나 두개 이상의 데이터를 호출하는 방식을 하기에는 기술 부족
         - openweathermap api의 group기능을 이용하여 전국 17곳의 아이디값을 가져와 호출 성공
         - 아직 17곳의 데이터를 가지고 랜덤으로 하나의 지역을 화면에 가져오는 기능은 구현하지 못함
         - <b>이번주 혹은 다음주까지 완성할 것</b>
     - openweathermap api의 데이터값을 연속 두번 호출이 발생하는 것을 확인
         - 확인결과 `React.StrictMode`로 인하여 발생한 문제라는 것을 알게됨
         - `React.StrictMode` 에 대한 [설명](https://velog.io/@kysung95/%EC%A7%A4%EB%A7%89%EA%B8%80-react-strict-%EB%AA%A8%EB%93%9C%EB%9E%80) 
-    - openweathermap api의 데이터를 아래의 지도위에 올리는 작업을 수행할 것
+    - openweathermap api의 데이터를 아래의 지도를 수정한 후 지도위에 올리는 작업을 수행할 것
         - <img src="./image/map.jpg" style="width:300px"/><br>`https://m.blog.naver.com/hakarashi/221868934187`
         - 지역명(한글), 날씨 아이콘, 온도 등을 표시할 것
     - darkmode의 스위치를 버튼형식으로 바꿀것
