@@ -28,6 +28,7 @@
         - spinner기능 추가
             - <img src="./image/spinner.PNG" />
             - 위 이미지와 같이 값이 호출되기전에 spinner가 돌게 만듬   
+     
     `[ 오늘날 부터 다음주까지 할 작업 ]`
     - MapPage 만들기
         - weatherMap.js파일에 구현한 기능을 토대로 만듬
