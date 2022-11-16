@@ -23,7 +23,7 @@
         - <img src="./image/publishing-size.PNG" />
         - widht값에 변화에 따른 페이지
     - 기존 dark모드의 스위치를 헤더에 있는 dark버튼으로 바꿔서 적용
-        - 위 이미지 왼쪽위 버튼을 참고
+        - 위 이미지 오른쪽위 버튼을 참고
     - API호출 과정에서 시간이 걸리는 경우 발생
         - spinner기능 추가
             - <img src="./image/spinner.PNG" />
